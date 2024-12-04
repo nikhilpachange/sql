@@ -1,3 +1,4 @@
+
 -- Insert Branches
 INSERT INTO Branch (BranchName, Location)
 VALUES
